@@ -14,6 +14,13 @@
 		910B39322A4E5BB7000480E8 /* e2_group_kwkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B39312A4E5BB7000480E8 /* e2_group_kwkTests.swift */; };
 		910B393C2A4E5BB7000480E8 /* e2_group_kwkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B393B2A4E5BB7000480E8 /* e2_group_kwkUITests.swift */; };
 		910B393E2A4E5BB7000480E8 /* e2_group_kwkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B393D2A4E5BB7000480E8 /* e2_group_kwkUITestsLaunchTests.swift */; };
+		910B39552A4E62B8000480E8 /* homePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B39542A4E62B8000480E8 /* homePage.swift */; };
+		910B395F2A4E68D4000480E8 /* NewsletterHomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B395E2A4E68D4000480E8 /* NewsletterHomePage.swift */; };
+		910B39612A4E6A2A000480E8 /* GlobalWarmingNewsletter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B39602A4E6A2A000480E8 /* GlobalWarmingNewsletter.swift */; };
+		910B39632A4E6AF1000480E8 /* PollutionNewsletter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B39622A4E6AF1000480E8 /* PollutionNewsletter.swift */; };
+		910B39652A4E6B11000480E8 /* RenewableNewsletter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B39642A4E6B11000480E8 /* RenewableNewsletter.swift */; };
+		910B396B2A4E72C4000480E8 /* Reminders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B396A2A4E72C4000480E8 /* Reminders.swift */; };
+		910B39712A4E79D4000480E8 /* AboutPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B39702A4E79D4000480E8 /* AboutPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +51,13 @@
 		910B39372A4E5BB7000480E8 /* e2 group kwkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "e2 group kwkUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		910B393B2A4E5BB7000480E8 /* e2_group_kwkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = e2_group_kwkUITests.swift; sourceTree = "<group>"; };
 		910B393D2A4E5BB7000480E8 /* e2_group_kwkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = e2_group_kwkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		910B39542A4E62B8000480E8 /* homePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homePage.swift; sourceTree = "<group>"; };
+		910B395E2A4E68D4000480E8 /* NewsletterHomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsletterHomePage.swift; sourceTree = "<group>"; };
+		910B39602A4E6A2A000480E8 /* GlobalWarmingNewsletter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalWarmingNewsletter.swift; sourceTree = "<group>"; };
+		910B39622A4E6AF1000480E8 /* PollutionNewsletter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PollutionNewsletter.swift; sourceTree = "<group>"; };
+		910B39642A4E6B11000480E8 /* RenewableNewsletter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RenewableNewsletter.swift; sourceTree = "<group>"; };
+		910B396A2A4E72C4000480E8 /* Reminders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reminders.swift; sourceTree = "<group>"; };
+		910B39702A4E79D4000480E8 /* AboutPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +120,13 @@
 			isa = PBXGroup;
 			children = (
 				910B39272A4E5BB6000480E8 /* Preview Assets.xcassets */,
+				910B39542A4E62B8000480E8 /* homePage.swift */,
+				910B395E2A4E68D4000480E8 /* NewsletterHomePage.swift */,
+				910B39602A4E6A2A000480E8 /* GlobalWarmingNewsletter.swift */,
+				910B39622A4E6AF1000480E8 /* PollutionNewsletter.swift */,
+				910B39642A4E6B11000480E8 /* RenewableNewsletter.swift */,
+				910B396A2A4E72C4000480E8 /* Reminders.swift */,
+				910B39702A4E79D4000480E8 /* AboutPage.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -257,8 +278,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				910B39552A4E62B8000480E8 /* homePage.swift in Sources */,
+				910B39652A4E6B11000480E8 /* RenewableNewsletter.swift in Sources */,
+				910B39712A4E79D4000480E8 /* AboutPage.swift in Sources */,
+				910B39632A4E6AF1000480E8 /* PollutionNewsletter.swift in Sources */,
+				910B396B2A4E72C4000480E8 /* Reminders.swift in Sources */,
+				910B39612A4E6A2A000480E8 /* GlobalWarmingNewsletter.swift in Sources */,
 				910B39232A4E5BB5000480E8 /* ContentView.swift in Sources */,
 				910B39212A4E5BB5000480E8 /* e2_group_kwkApp.swift in Sources */,
+				910B395F2A4E68D4000480E8 /* NewsletterHomePage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
