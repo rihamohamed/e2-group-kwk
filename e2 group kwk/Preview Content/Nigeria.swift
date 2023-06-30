@@ -14,7 +14,7 @@ struct Nigeria: View {
             
             .font(.largeTitle)
             .bold()
-          Text("More ferocious and irregular precipitation is being brought on by Nigeria's rising climate variability. One of the ten nations most susceptible to the effects of climate change has seen an increase in gully erosion, landslides, and flash floods, which has exacerbated land degradation. The average yearly variability and trend of rainfall throughout Nigeria over the past six decades shows various inter-annual oscillations that are to blame for catastrophic climatic events like droughts and floods in several regions of the nation. Nigeria reaffirmed its pledge to cut emissions by 20% below BAU by 2030.")
+          Text("More ferocious and irregular precipitation is being brought on by Nigeria's rising climate variability. It is one of the top ten nations most susceptible to the effects of climate change has seen an increase in gully erosion, landslides, and flash floods, which has exacerbated land degradation. The average yearly variability and trend of rainfall throughout Nigeria over the past six decades shows various inter-annual oscillations that are to blame for catastrophic climatic events like droughts and floods in several regions of the nation. Nigeria reaffirmed its pledge to cut emissions by 20% below BAU by 2030.")
             .padding()
             .multilineTextAlignment(.center)
         }

@@ -40,7 +40,7 @@ struct HomePage: View {
                     .font(.largeTitle)
                     .foregroundColor(.brown)
                     .bold()
-                NavigationLink(destination: AboutPage ()) {
+                NavigationLink(destination: Map ()) {
                     Text("🌎 Map 🌎 ")
                 }
                 .padding(.vertical, 40)
