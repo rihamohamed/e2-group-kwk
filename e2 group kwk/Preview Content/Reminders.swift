@@ -35,7 +35,7 @@ struct Reminders: View {
                 .padding(.all, 19.0)
         TextField(" - ", text: $userInput5)
                 .padding(.all, 19.0)
-        TextField(" - ", text: $userInput)
+        TextField(" - ", text: $userInput6)
                 .padding(.all, 19.0)
             Spacer()
         }
