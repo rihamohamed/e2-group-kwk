@@ -8,7 +8,7 @@ import SwiftUI
 struct RenewableNewsletter: View {
   var body: some View {
     VStack {
-      Text("Renewable vs. Non-renewable Energy Sources")
+      Text("Renewable vs. Non-renewable ♻️Energy Sources♻️")
         .font(.title2)
         .bold()
         .multilineTextAlignment(.center)

@@ -33,7 +33,7 @@ struct ContentView: View {
              
                 }
             NavigationLink(destination: HomePage()) {
-                    Text("Next")
+                    Text("Next→")
             }
         }
         

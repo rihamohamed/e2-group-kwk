@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7368AB292A4F25DF0080FFD3 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB282A4F25DF0080FFD3 /* Map.swift */; };
+		7368AB2B2A4F2C750080FFD3 /* Somalia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB2A2A4F2C750080FFD3 /* Somalia.swift */; };
+		7368AB2D2A4F2D370080FFD3 /* SouthernCali.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB2C2A4F2D370080FFD3 /* SouthernCali.swift */; };
+		7368AB2F2A4F2DB30080FFD3 /* Afghanistan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB2E2A4F2DB30080FFD3 /* Afghanistan.swift */; };
+		7368AB312A4F2E630080FFD3 /* Nigeria.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB302A4F2E630080FFD3 /* Nigeria.swift */; };
+		7368AB332A4F2F2E0080FFD3 /* Russia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB322A4F2F2E0080FFD3 /* Russia.swift */; };
+		7368AB352A4F2FB90080FFD3 /* Amazon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB342A4F2FB90080FFD3 /* Amazon.swift */; };
+		7368AB372A4F309C0080FFD3 /* Delhi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB362A4F309C0080FFD3 /* Delhi.swift */; };
+		7368AB3B2A4F31150080FFD3 /* Antarctica.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB3A2A4F31150080FFD3 /* Antarctica.swift */; };
+		7368AB3D2A4F31AB0080FFD3 /* Canada.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7368AB3C2A4F31AB0080FFD3 /* Canada.swift */; };
 		910B39212A4E5BB5000480E8 /* e2_group_kwkApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B39202A4E5BB5000480E8 /* e2_group_kwkApp.swift */; };
 		910B39232A4E5BB5000480E8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B39222A4E5BB5000480E8 /* ContentView.swift */; };
 		910B39252A4E5BB6000480E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 910B39242A4E5BB6000480E8 /* Assets.xcassets */; };
@@ -41,6 +51,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7368AB282A4F25DF0080FFD3 /* Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
+		7368AB2A2A4F2C750080FFD3 /* Somalia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Somalia.swift; sourceTree = "<group>"; };
+		7368AB2C2A4F2D370080FFD3 /* SouthernCali.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SouthernCali.swift; sourceTree = "<group>"; };
+		7368AB2E2A4F2DB30080FFD3 /* Afghanistan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Afghanistan.swift; sourceTree = "<group>"; };
+		7368AB302A4F2E630080FFD3 /* Nigeria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nigeria.swift; sourceTree = "<group>"; };
+		7368AB322A4F2F2E0080FFD3 /* Russia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Russia.swift; sourceTree = "<group>"; };
+		7368AB342A4F2FB90080FFD3 /* Amazon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amazon.swift; sourceTree = "<group>"; };
+		7368AB362A4F309C0080FFD3 /* Delhi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delhi.swift; sourceTree = "<group>"; };
+		7368AB3A2A4F31150080FFD3 /* Antarctica.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Antarctica.swift; sourceTree = "<group>"; };
+		7368AB3C2A4F31AB0080FFD3 /* Canada.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Canada.swift; sourceTree = "<group>"; };
 		910B391D2A4E5BB5000480E8 /* e2 group kwk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "e2 group kwk.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		910B39202A4E5BB5000480E8 /* e2_group_kwkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = e2_group_kwkApp.swift; sourceTree = "<group>"; };
 		910B39222A4E5BB5000480E8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -127,6 +147,16 @@
 				910B39642A4E6B11000480E8 /* RenewableNewsletter.swift */,
 				910B396A2A4E72C4000480E8 /* Reminders.swift */,
 				910B39702A4E79D4000480E8 /* AboutPage.swift */,
+				7368AB282A4F25DF0080FFD3 /* Map.swift */,
+				7368AB3C2A4F31AB0080FFD3 /* Canada.swift */,
+				7368AB3A2A4F31150080FFD3 /* Antarctica.swift */,
+				7368AB362A4F309C0080FFD3 /* Delhi.swift */,
+				7368AB342A4F2FB90080FFD3 /* Amazon.swift */,
+				7368AB322A4F2F2E0080FFD3 /* Russia.swift */,
+				7368AB302A4F2E630080FFD3 /* Nigeria.swift */,
+				7368AB2E2A4F2DB30080FFD3 /* Afghanistan.swift */,
+				7368AB2C2A4F2D370080FFD3 /* SouthernCali.swift */,
+				7368AB2A2A4F2C750080FFD3 /* Somalia.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -278,13 +308,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7368AB292A4F25DF0080FFD3 /* Map.swift in Sources */,
+				7368AB2B2A4F2C750080FFD3 /* Somalia.swift in Sources */,
+				7368AB2D2A4F2D370080FFD3 /* SouthernCali.swift in Sources */,
+				7368AB3D2A4F31AB0080FFD3 /* Canada.swift in Sources */,
 				910B39552A4E62B8000480E8 /* homePage.swift in Sources */,
+				7368AB372A4F309C0080FFD3 /* Delhi.swift in Sources */,
 				910B39652A4E6B11000480E8 /* RenewableNewsletter.swift in Sources */,
 				910B39712A4E79D4000480E8 /* AboutPage.swift in Sources */,
+				7368AB3B2A4F31150080FFD3 /* Antarctica.swift in Sources */,
 				910B39632A4E6AF1000480E8 /* PollutionNewsletter.swift in Sources */,
 				910B396B2A4E72C4000480E8 /* Reminders.swift in Sources */,
 				910B39612A4E6A2A000480E8 /* GlobalWarmingNewsletter.swift in Sources */,
 				910B39232A4E5BB5000480E8 /* ContentView.swift in Sources */,
+				7368AB2F2A4F2DB30080FFD3 /* Afghanistan.swift in Sources */,
+				7368AB332A4F2F2E0080FFD3 /* Russia.swift in Sources */,
+				7368AB312A4F2E630080FFD3 /* Nigeria.swift in Sources */,
+				7368AB352A4F2FB90080FFD3 /* Amazon.swift in Sources */,
 				910B39212A4E5BB5000480E8 /* e2_group_kwkApp.swift in Sources */,
 				910B395F2A4E68D4000480E8 /* NewsletterHomePage.swift in Sources */,
 			);

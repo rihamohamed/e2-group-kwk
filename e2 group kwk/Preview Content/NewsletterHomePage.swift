@@ -14,19 +14,19 @@ struct NewsletterHomePage: View {
                 }
                 .padding()
                 .font(.title)
-                .foregroundColor(.green)
+                .foregroundColor(.brown)
                 NavigationLink(destination: RenewableNewsletter()) {
                     Text("Renewable vs. Non-Renewable Energy Sources")
                 }
                 .padding()
                 .font(.title)
-                .foregroundColor(.green)
+                .foregroundColor(.brown)
                 NavigationLink(destination: PollutionNewsletter()) {
                     Text("Pollution")
                 }
                 .padding()
                 .font(.title)
-                .foregroundColor(.green)
+                .foregroundColor(.brown)
             }
         }
     }
